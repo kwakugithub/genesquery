@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: genesquery
+Version: 0.0.1
+Summary: extraction of genes
+Author-email: kwakuopare <kwakuoparefavor@gmail.com>
+Project-URL: Homepage, https://github.com/kwakugithub/Genespackages-in-helmholtz.git
+Project-URL: Bug Tracker, https://github.com/kwakugithub/Genespackages-in-helmholtz.git
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10.6
+Description-Content-Type: text/markdown
