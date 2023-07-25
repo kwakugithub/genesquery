@@ -1,9 +1,0 @@
-README.md
-pyproject.toml
-genesquery/__init__.py
-genesquery/genesquery.py
-genesquery.egg-info/PKG-INFO
-genesquery.egg-info/SOURCES.txt
-genesquery.egg-info/dependency_links.txt
-genesquery.egg-info/entry_points.txt
-genesquery.egg-info/top_level.txt
