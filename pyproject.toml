@@ -23,4 +23,3 @@ classifiers = [
 
 [project.scripts] 
 genesquery = "genesquery:main"
-
